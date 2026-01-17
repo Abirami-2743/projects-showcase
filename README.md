@@ -24,7 +24,6 @@ AI-powered forecasting system for electricity demand prediction. Published in pe
 
 ### Key Achievements
 - ✅ Published in Journal of Technology (2025)
-- ✅ 92%+ forecasting accuracy on real utility data
 - ✅ Production-ready REST API architecture
 - ✅ Real-time data processing pipeline
 - ✅ Interactive visualization dashboard
