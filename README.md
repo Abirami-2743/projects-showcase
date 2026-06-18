@@ -33,32 +33,6 @@ AI-powered forecasting system for electricity demand prediction. Published in pe
 - **Full technical documentation and source code available for review during interviews**
 
 
-
-## 🚀 FlyOps - AI Digital Twin for Aviation
-**Duration:** December 2025 - Present | **Status:** Ongoing Development
-
-### Overview
-Enterprise-grade AI platform for airline operational decision support and crisis management.
-
-### My Role: Full-Stack Developer
-- Developing backend APIs and real-time data pipelines for operational intelligence
-- Implementing AI-powered insights for crisis decision support
-- Building modular, scalable frontend with React.js + TypeScript
-- Collaborating in agile team for iterative feature delivery
-
-### Tech Stack
-**Backend:** Python, FastAPI  
-**Frontend:** React.js, TypeScript  
-**Data Processing:** Pandas, NumPy  
-**Tools:** Git
-
-### Status
-🔨 Active development - Building microservices architecture and AI inference pipeline
-
-
-## 📫 Contact
-Full source code, technical documentation, and live demos available upon request for interview purposes.
-
 **Email:** abiramisgp@gmail.com 
 **LinkedIn:** www.linkedin.com/in/abiraminayagi-s-
 
