@@ -1,6 +1,6 @@
 # My Projects Portfolio
 
-Showcase of AI/ML and Full-Stack development projects.
+Showcase of AI/ML projects.
 
 
 
